@@ -1,7 +1,7 @@
 # ice-hockey-analytics
 
 ## Contributors
-Atchuta Ram Aravalli,
+Atchuta Ram Aravilli,
 Shreyas R,
 Soham Sarkar,
 Shreya Mandi
